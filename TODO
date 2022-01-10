@@ -1,0 +1,22 @@
+FE:
+
+TODO Connect BE to MongoDB
+
+TODO Create scaffolding for FE
+
+- Styling and markup for flashcard component
+- Styling and markup for adding flashcard components
+
+TODO Add redux
+
+TODO Create form components
+
+BE components:
+
+TODO Add user authentication
+
+TODO Add user authorization
+
+TODO Add data persistance for added decks
+
+TODO Load decks from DB for specific user upon login
