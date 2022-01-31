@@ -1,0 +1,43 @@
+.flashcardContainer {
+  border: 1px solid black;
+  width: 25%;
+  height: 100px;
+  margin: 10px auto;
+}
+
+.newFlashcardSideContainer {
+  display: inline-block;
+}
+
+/* .headerLeft {
+  margin-right: 50%;
+}
+
+.headerRight {
+  margin-left: 50%;
+} */
+
+textarea {
+  height: 100px;
+  width: 400px;
+  margin: 0px 10px;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 15px;
+}
+
+textarea:focus {
+  border: none;
+  background-color: transparent;
+  resize: none;
+  outline: none;
+}
+
+textarea.left {
+  resize: none;
+  padding: 0;
+}
+
+textarea.right {
+  resize: none;
+  padding: 0;
+}

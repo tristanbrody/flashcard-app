@@ -1,0 +1,17 @@
+form {
+  margin: 20px;
+}
+
+label {
+  display: block;
+}
+
+input {
+  margin: 6px 0px;
+}
+
+button {
+  display: block;
+  margin: 10px auto;
+  cursor: pointer;
+}

@@ -1,0 +1,15 @@
+.button:hover {
+  cursor: pointer;
+  background-color: #66052d;
+}
+
+.button {
+  display: block;
+  margin: 50px auto;
+  background-color: #cc0000;
+  color: white;
+  font-family: roboto;
+  font-size: 14px;
+  text-transform: uppercase;
+  border-radius: 11px;
+}

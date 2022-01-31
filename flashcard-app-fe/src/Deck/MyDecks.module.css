@@ -1,0 +1,10 @@
+.deckContainer {
+  margin: 15px;
+  border: 1px solid grey;
+  background-color: rgb(255, 138, 255);
+  cursor: pointer;
+}
+
+.deckContainer:hover {
+  background-color: rgb(218, 100, 218);
+}
