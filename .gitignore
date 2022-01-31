@@ -1,3 +1,4 @@
-/flashcard-app-fe/node-modules
-/flashcard-app-be/node-modules
+/flashcard-app-fe/node-modules/
+/flashcard-app-be/node-modules/
 /node-modules
+/flashcard-app-be/.env
